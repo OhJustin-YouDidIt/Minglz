@@ -15,3 +15,4 @@ struct MinglzApp: App {
         }
     }
 }
+
